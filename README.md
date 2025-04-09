@@ -2,7 +2,7 @@
 
 A data-driven dashboard built entirely in **Microsoft Excel** to analyze and visualize crime trends across the **State of New York**. The dashboard presents comprehensive insights using interactive visuals, charts, and KPI indicators.
 
-![Dashboard Preview](Crime_Inshights_Dashboard.png)
+![Dashboard Preview](Crime_Insights_Dashboard.png)
 
 ---
 
